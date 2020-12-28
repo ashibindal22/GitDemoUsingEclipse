@@ -11,7 +11,11 @@ public class StringSplit {
 		System.out.println("Adding Line of Code from TesterBranch");
 		
 		System.out.println("Again Adding the Changes");
+<<<<<<< HEAD
 		System.out.println("Adding Data to TestBranch2");
+=======
+		System.out.println("Again Adding the Changes in master");
+>>>>>>> master
 	}
 	
 }
