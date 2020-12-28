@@ -7,6 +7,9 @@ public class StringSplit {
 		arr= Fortune.split(",");
 		
 		System.out.println(arr[0]);
+		
+		
+		System.out.println("Added Line of Code from TestBrach2");
 	}
 	
 }
